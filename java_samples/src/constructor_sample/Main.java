@@ -10,9 +10,6 @@ public class Main {
 	//}
 	BitSet aaa = new BitSet();
 	aaa.set(1);
-	aaa.set(3);
-	aaa.set(5);
 
-	aaa.get(1);
 	}
 }
